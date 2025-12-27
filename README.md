@@ -70,7 +70,7 @@ Where:
 **Sensors**
 - DHT11 - Temperature & Humidity (1-wire protocol)
 - BH1750 - Light Intensity (I2C interface)
-- Analog wind speed sensor (0-5V output to ADC)
+- Analog wind speed sensor (0-1V output to ADC)
 
 **Display & Interface**
 - HD44780-compatible 20×4 LCD
