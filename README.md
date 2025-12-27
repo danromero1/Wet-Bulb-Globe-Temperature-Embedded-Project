@@ -286,7 +286,7 @@ This project provided hands-on experience with:
 ## Acknowledgments
 
 **Course:** ECE 3301 - Microcontroller Systems  
-**Instructor:** [Professor Name]  
+**Instructor:** Sasoun Torousian  
 **Partner:** Isaias Rafael-Sepulveda  
 **Institution:** California Polytechnic State University, Pomona
 
